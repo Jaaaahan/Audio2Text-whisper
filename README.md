@@ -64,7 +64,7 @@ xcode-select --install
 
 模型文件可从以下链接下载，并放置在 models/ 文件夹中：
 
-🔗 Whisper CoreML 模型下载地址（Google Drive）
+🔗 Whisper CoreML 模型下载地址（[Google Drive](https://drive.google.com/file/d/113svM736cFPgj4lJKLb5KMop_QtkIWNf/view?usp=share_link)）
 
 下载后请确保文件结构如下：
 
