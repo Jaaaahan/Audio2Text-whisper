@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libggml-blas.dylib -install_name @rpath/libggml-blas.dylib "CMakeFiles/ggml-blas.dir/ggml-blas.cpp.o"  -Wl,-rpath,/Users/jyh/MyData/whisper.cpp/build/ggml/src ../libggml-base.dylib -framework Accelerate

@@ -1,0 +1,260 @@
+[
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/cc -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu11 -arch arm64 -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wdouble-promotion -o CMakeFiles/ggml-base.dir/ggml.c.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml.c",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml.c",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml.c.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -o CMakeFiles/ggml-base.dir/ggml.cpp.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/cc -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu11 -arch arm64 -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wdouble-promotion -o CMakeFiles/ggml-base.dir/ggml-alloc.c.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-alloc.c",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-alloc.c",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-alloc.c.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -o CMakeFiles/ggml-base.dir/ggml-backend.cpp.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-backend.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-backend.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-backend.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -o CMakeFiles/ggml-base.dir/ggml-opt.cpp.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-opt.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-opt.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-opt.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -o CMakeFiles/ggml-base.dir/ggml-threading.cpp.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-threading.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-threading.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-threading.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/cc -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu11 -arch arm64 -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wdouble-promotion -o CMakeFiles/ggml-base.dir/ggml-quants.c.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-quants.c",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-quants.c",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-quants.c.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -o CMakeFiles/ggml-base.dir/gguf.cpp.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/gguf.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/gguf.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/gguf.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/cc -DACCELERATE_LAPACK_ILP64 -DACCELERATE_NEW_LAPACK -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_ACCELERATE -DGGML_USE_CPU_REPACK -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/.. -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -O3 -DNDEBUG -std=gnu11 -arch arm64 -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wdouble-promotion -mcpu=native+dotprod+i8mm+nosve+sme -o CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.c.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu.c",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu.c",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.c.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DACCELERATE_LAPACK_ILP64 -DACCELERATE_NEW_LAPACK -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_ACCELERATE -DGGML_USE_CPU_REPACK -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/.. -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -mcpu=native+dotprod+i8mm+nosve+sme -o CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.cpp.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DACCELERATE_LAPACK_ILP64 -DACCELERATE_NEW_LAPACK -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_ACCELERATE -DGGML_USE_CPU_REPACK -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/.. -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -mcpu=native+dotprod+i8mm+nosve+sme -o CMakeFiles/ggml-cpu.dir/ggml-cpu/repack.cpp.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/repack.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/repack.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/repack.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DACCELERATE_LAPACK_ILP64 -DACCELERATE_NEW_LAPACK -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_ACCELERATE -DGGML_USE_CPU_REPACK -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/.. -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -mcpu=native+dotprod+i8mm+nosve+sme -o CMakeFiles/ggml-cpu.dir/ggml-cpu/hbm.cpp.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/hbm.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/hbm.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/hbm.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/cc -DACCELERATE_LAPACK_ILP64 -DACCELERATE_NEW_LAPACK -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_ACCELERATE -DGGML_USE_CPU_REPACK -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/.. -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -O3 -DNDEBUG -std=gnu11 -arch arm64 -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wdouble-promotion -mcpu=native+dotprod+i8mm+nosve+sme -o CMakeFiles/ggml-cpu.dir/ggml-cpu/quants.c.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/quants.c",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/quants.c",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/quants.c.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DACCELERATE_LAPACK_ILP64 -DACCELERATE_NEW_LAPACK -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_ACCELERATE -DGGML_USE_CPU_REPACK -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/.. -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -mcpu=native+dotprod+i8mm+nosve+sme -o CMakeFiles/ggml-cpu.dir/ggml-cpu/traits.cpp.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/traits.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/traits.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/traits.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DACCELERATE_LAPACK_ILP64 -DACCELERATE_NEW_LAPACK -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_ACCELERATE -DGGML_USE_CPU_REPACK -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/.. -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -mcpu=native+dotprod+i8mm+nosve+sme -o CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/amx.cpp.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/amx/amx.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/amx/amx.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/amx.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DACCELERATE_LAPACK_ILP64 -DACCELERATE_NEW_LAPACK -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_ACCELERATE -DGGML_USE_CPU_REPACK -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/.. -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -mcpu=native+dotprod+i8mm+nosve+sme -o CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/mmq.cpp.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/amx/mmq.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/amx/mmq.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/mmq.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DACCELERATE_LAPACK_ILP64 -DACCELERATE_NEW_LAPACK -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_ACCELERATE -DGGML_USE_CPU_REPACK -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/.. -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -mcpu=native+dotprod+i8mm+nosve+sme -o CMakeFiles/ggml-cpu.dir/ggml-cpu/binary-ops.cpp.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/binary-ops.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/binary-ops.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/binary-ops.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DACCELERATE_LAPACK_ILP64 -DACCELERATE_NEW_LAPACK -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_ACCELERATE -DGGML_USE_CPU_REPACK -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/.. -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -mcpu=native+dotprod+i8mm+nosve+sme -o CMakeFiles/ggml-cpu.dir/ggml-cpu/unary-ops.cpp.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/unary-ops.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/unary-ops.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/unary-ops.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DACCELERATE_LAPACK_ILP64 -DACCELERATE_NEW_LAPACK -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_ACCELERATE -DGGML_USE_CPU_REPACK -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/.. -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -mcpu=native+dotprod+i8mm+nosve+sme -o CMakeFiles/ggml-cpu.dir/ggml-cpu/vec.cpp.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/vec.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/vec.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/vec.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DACCELERATE_LAPACK_ILP64 -DACCELERATE_NEW_LAPACK -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_ACCELERATE -DGGML_USE_CPU_REPACK -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/.. -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -mcpu=native+dotprod+i8mm+nosve+sme -o CMakeFiles/ggml-cpu.dir/ggml-cpu/ops.cpp.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/ops.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/ops.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ops.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/cc -DACCELERATE_LAPACK_ILP64 -DACCELERATE_NEW_LAPACK -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_ACCELERATE -DGGML_USE_CPU_REPACK -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/.. -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -O3 -DNDEBUG -std=gnu11 -arch arm64 -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wdouble-promotion -mcpu=native+dotprod+i8mm+nosve+sme -o CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/arm/quants.c.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/arch/arm/quants.c",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/arch/arm/quants.c",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/arm/quants.c.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DACCELERATE_LAPACK_ILP64 -DACCELERATE_NEW_LAPACK -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_ACCELERATE -DGGML_USE_CPU_REPACK -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/.. -I/Users/jyh/MyData/whisper.cpp/ggml/src/. -I/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -mcpu=native+dotprod+i8mm+nosve+sme -o CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/arm/repack.cpp.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/arch/arm/repack.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-cpu/arch/arm/repack.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/arm/repack.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_BLAS -DGGML_USE_CPU -DGGML_USE_METAL -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -o CMakeFiles/ggml.dir/ggml-backend-reg.cpp.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-backend-reg.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-backend-reg.cpp",
+  "output": "ggml/src/CMakeFiles/ggml.dir/ggml-backend-reg.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src/ggml-blas",
+  "command": "/usr/bin/c++ -DACCELERATE_LAPACK_ILP64 -DACCELERATE_NEW_LAPACK -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_BLAS_USE_ACCELERATE -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_blas_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-blas/.. -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -o CMakeFiles/ggml-blas.dir/ggml-blas.cpp.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-blas/ggml-blas.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-blas/ggml-blas.cpp",
+  "output": "ggml/src/ggml-blas/CMakeFiles/ggml-blas.dir/ggml-blas.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src/ggml-metal",
+  "command": "/usr/bin/cc -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_METAL_EMBED_LIBRARY -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_metal_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-metal/.. -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -O3 -DNDEBUG -std=gnu11 -arch arm64 -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wdouble-promotion -o CMakeFiles/ggml-metal.dir/ggml-metal.m.o -c /Users/jyh/MyData/whisper.cpp/ggml/src/ggml-metal/ggml-metal.m",
+  "file": "/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-metal/ggml-metal.m",
+  "output": "ggml/src/ggml-metal/CMakeFiles/ggml-metal.dir/ggml-metal.m.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/ggml/src/ggml-metal",
+  "command": "/usr/bin/cc -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_METAL_EMBED_LIBRARY -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_DARWIN_C_SOURCE -D_XOPEN_SOURCE=600 -Dggml_metal_EXPORTS -I/Users/jyh/MyData/whisper.cpp/ggml/src/ggml-metal/.. -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Foundation.framework -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Metal.framework -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/MetalKit.framework -O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -fPIC -o CMakeFiles/ggml-metal.dir/__/__/__/autogenerated/ggml-metal-embed.s.o -c /Users/jyh/MyData/whisper.cpp/build/autogenerated/ggml-metal-embed.s",
+  "file": "/Users/jyh/MyData/whisper.cpp/build/autogenerated/ggml-metal-embed.s",
+  "output": "ggml/src/ggml-metal/CMakeFiles/ggml-metal.dir/__/__/__/autogenerated/ggml-metal-embed.s.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/src",
+  "command": "/usr/bin/cc -Dwhisper_coreml_EXPORTS -I/Users/jyh/MyData/whisper.cpp/src/. -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -O3 -DNDEBUG -arch arm64 -fPIC -fobjc-arc -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -o CMakeFiles/whisper.coreml.dir/coreml/whisper-compat.m.o -c /Users/jyh/MyData/whisper.cpp/src/coreml/whisper-compat.m",
+  "file": "/Users/jyh/MyData/whisper.cpp/src/coreml/whisper-compat.m",
+  "output": "src/CMakeFiles/whisper.coreml.dir/coreml/whisper-compat.m.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/src",
+  "command": "/usr/bin/c++ -Dwhisper_coreml_EXPORTS -I/Users/jyh/MyData/whisper.cpp/src/. -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -O3 -DNDEBUG -arch arm64 -fPIC -fobjc-arc -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -o CMakeFiles/whisper.coreml.dir/coreml/whisper-encoder.mm.o -c /Users/jyh/MyData/whisper.cpp/src/coreml/whisper-encoder.mm",
+  "file": "/Users/jyh/MyData/whisper.cpp/src/coreml/whisper-encoder.mm",
+  "output": "src/CMakeFiles/whisper.coreml.dir/coreml/whisper-encoder.mm.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/src",
+  "command": "/usr/bin/cc -Dwhisper_coreml_EXPORTS -I/Users/jyh/MyData/whisper.cpp/src/. -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -O3 -DNDEBUG -arch arm64 -fPIC -fobjc-arc -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -o CMakeFiles/whisper.coreml.dir/coreml/whisper-encoder-impl.m.o -c /Users/jyh/MyData/whisper.cpp/src/coreml/whisper-encoder-impl.m",
+  "file": "/Users/jyh/MyData/whisper.cpp/src/coreml/whisper-encoder-impl.m",
+  "output": "src/CMakeFiles/whisper.coreml.dir/coreml/whisper-encoder-impl.m.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_BLAS -DGGML_USE_CPU -DGGML_USE_METAL -DWHISPER_BUILD -DWHISPER_SHARED -DWHISPER_VERSION=\\\"1.7.6\\\" -Dwhisper_EXPORTS -I/Users/jyh/MyData/whisper.cpp/src/. -I/Users/jyh/MyData/whisper.cpp/src/../include -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -arch arm64 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -DWHISPER_USE_COREML -o CMakeFiles/whisper.dir/whisper.cpp.o -c /Users/jyh/MyData/whisper.cpp/src/whisper.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/src/whisper.cpp",
+  "output": "src/CMakeFiles/whisper.dir/whisper.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/tests",
+  "command": "/usr/bin/c++  -I/Users/jyh/MyData/whisper.cpp/tests/../include -I/Users/jyh/MyData/whisper.cpp/tests/../ggml/include -I/Users/jyh/MyData/whisper.cpp/tests/../examples -O3 -DNDEBUG -std=gnu++17 -arch arm64 -o CMakeFiles/test-vad.dir/test-vad.cpp.o -c /Users/jyh/MyData/whisper.cpp/tests/test-vad.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/tests/test-vad.cpp",
+  "output": "tests/CMakeFiles/test-vad.dir/test-vad.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/tests",
+  "command": "/usr/bin/c++  -I/Users/jyh/MyData/whisper.cpp/tests/../include -I/Users/jyh/MyData/whisper.cpp/tests/../ggml/include -I/Users/jyh/MyData/whisper.cpp/tests/../examples -O3 -DNDEBUG -std=gnu++17 -arch arm64 -o CMakeFiles/test-vad-full.dir/test-vad-full.cpp.o -c /Users/jyh/MyData/whisper.cpp/tests/test-vad-full.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/tests/test-vad-full.cpp",
+  "output": "tests/CMakeFiles/test-vad-full.dir/test-vad-full.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/examples",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_BLAS -DGGML_USE_CPU -DGGML_USE_METAL -I/Users/jyh/MyData/whisper.cpp/examples -I/Users/jyh/MyData/whisper.cpp/src/. -I/Users/jyh/MyData/whisper.cpp/src/../include -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -arch arm64 -fPIC -o CMakeFiles/common.dir/common.cpp.o -c /Users/jyh/MyData/whisper.cpp/examples/common.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/examples/common.cpp",
+  "output": "examples/CMakeFiles/common.dir/common.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/examples",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_BLAS -DGGML_USE_CPU -DGGML_USE_METAL -I/Users/jyh/MyData/whisper.cpp/examples -I/Users/jyh/MyData/whisper.cpp/src/. -I/Users/jyh/MyData/whisper.cpp/src/../include -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -arch arm64 -fPIC -o CMakeFiles/common.dir/common-ggml.cpp.o -c /Users/jyh/MyData/whisper.cpp/examples/common-ggml.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/examples/common-ggml.cpp",
+  "output": "examples/CMakeFiles/common.dir/common-ggml.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/examples",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_BLAS -DGGML_USE_CPU -DGGML_USE_METAL -I/Users/jyh/MyData/whisper.cpp/examples -I/Users/jyh/MyData/whisper.cpp/src/. -I/Users/jyh/MyData/whisper.cpp/src/../include -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -arch arm64 -fPIC -o CMakeFiles/common.dir/common-whisper.cpp.o -c /Users/jyh/MyData/whisper.cpp/examples/common-whisper.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/examples/common-whisper.cpp",
+  "output": "examples/CMakeFiles/common.dir/common-whisper.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/examples",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_BLAS -DGGML_USE_CPU -DGGML_USE_METAL -I/Users/jyh/MyData/whisper.cpp/examples -I/Users/jyh/MyData/whisper.cpp/src/. -I/Users/jyh/MyData/whisper.cpp/src/../include -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -arch arm64 -fPIC -o CMakeFiles/common.dir/grammar-parser.cpp.o -c /Users/jyh/MyData/whisper.cpp/examples/grammar-parser.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/examples/grammar-parser.cpp",
+  "output": "examples/CMakeFiles/common.dir/grammar-parser.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/examples/cli",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_BLAS -DGGML_USE_CPU -DGGML_USE_METAL -I/Users/jyh/MyData/whisper.cpp/examples -I/Users/jyh/MyData/whisper.cpp/src/. -I/Users/jyh/MyData/whisper.cpp/src/../include -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -arch arm64 -o CMakeFiles/whisper-cli.dir/cli.cpp.o -c /Users/jyh/MyData/whisper.cpp/examples/cli/cli.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/examples/cli/cli.cpp",
+  "output": "examples/cli/CMakeFiles/whisper-cli.dir/cli.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/examples/bench",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_BLAS -DGGML_USE_CPU -DGGML_USE_METAL -I/Users/jyh/MyData/whisper.cpp/examples -I/Users/jyh/MyData/whisper.cpp/src/. -I/Users/jyh/MyData/whisper.cpp/src/../include -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -arch arm64 -o CMakeFiles/whisper-bench.dir/bench.cpp.o -c /Users/jyh/MyData/whisper.cpp/examples/bench/bench.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/examples/bench/bench.cpp",
+  "output": "examples/bench/CMakeFiles/whisper-bench.dir/bench.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/examples/server",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_BLAS -DGGML_USE_CPU -DGGML_USE_METAL -I/Users/jyh/MyData/whisper.cpp/examples -I/Users/jyh/MyData/whisper.cpp/src/. -I/Users/jyh/MyData/whisper.cpp/src/../include -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -o CMakeFiles/whisper-server.dir/server.cpp.o -c /Users/jyh/MyData/whisper.cpp/examples/server/server.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/examples/server/server.cpp",
+  "output": "examples/server/CMakeFiles/whisper-server.dir/server.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/examples/quantize",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_BLAS -DGGML_USE_CPU -DGGML_USE_METAL -I/Users/jyh/MyData/whisper.cpp/examples -I/Users/jyh/MyData/whisper.cpp/src/. -I/Users/jyh/MyData/whisper.cpp/src/../include -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -arch arm64 -o CMakeFiles/quantize.dir/quantize.cpp.o -c /Users/jyh/MyData/whisper.cpp/examples/quantize/quantize.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/examples/quantize/quantize.cpp",
+  "output": "examples/quantize/CMakeFiles/quantize.dir/quantize.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/examples/vad-speech-segments",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_BLAS -DGGML_USE_CPU -DGGML_USE_METAL -I/Users/jyh/MyData/whisper.cpp/examples -I/Users/jyh/MyData/whisper.cpp/src/. -I/Users/jyh/MyData/whisper.cpp/src/../include -I/Users/jyh/MyData/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -arch arm64 -o CMakeFiles/vad-speech-segments.dir/speech.cpp.o -c /Users/jyh/MyData/whisper.cpp/examples/vad-speech-segments/speech.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/examples/vad-speech-segments/speech.cpp",
+  "output": "examples/vad-speech-segments/CMakeFiles/vad-speech-segments.dir/speech.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/examples/deprecation-warning",
+  "command": "/usr/bin/c++  -I/Users/jyh/MyData/whisper.cpp/examples -O3 -DNDEBUG -arch arm64 -o CMakeFiles/main.dir/deprecation-warning.cpp.o -c /Users/jyh/MyData/whisper.cpp/examples/deprecation-warning/deprecation-warning.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/examples/deprecation-warning/deprecation-warning.cpp",
+  "output": "examples/deprecation-warning/CMakeFiles/main.dir/deprecation-warning.cpp.o"
+},
+{
+  "directory": "/Users/jyh/MyData/whisper.cpp/build/examples/deprecation-warning",
+  "command": "/usr/bin/c++  -I/Users/jyh/MyData/whisper.cpp/examples -O3 -DNDEBUG -arch arm64 -o CMakeFiles/bench.dir/deprecation-warning.cpp.o -c /Users/jyh/MyData/whisper.cpp/examples/deprecation-warning/deprecation-warning.cpp",
+  "file": "/Users/jyh/MyData/whisper.cpp/examples/deprecation-warning/deprecation-warning.cpp",
+  "output": "examples/deprecation-warning/CMakeFiles/bench.dir/deprecation-warning.cpp.o"
+}
+]

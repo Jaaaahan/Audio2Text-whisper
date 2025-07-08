@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libwhisper.coreml.dylib -install_name @rpath/libwhisper.coreml.dylib "CMakeFiles/whisper.coreml.dir/coreml/whisper-compat.m.o" "CMakeFiles/whisper.coreml.dir/coreml/whisper-encoder.mm.o" "CMakeFiles/whisper.coreml.dir/coreml/whisper-encoder-impl.m.o"  -framework Foundation -framework CoreML
