@@ -100,4 +100,4 @@ system_info: ... | COREML = 1 |
 
 ## 🙏 致谢
 
-本项目基于优秀的开源实现 [whisper.cpp](https://github.com/ggml-org/whisper.cpp) 开发，致力于在 macOS 上实现更高效的 Whisper 推理体验。
+本项目基于优秀的开源实现 [whisper.cpp](https://github.com/ggml-org/whisper.cpp)
